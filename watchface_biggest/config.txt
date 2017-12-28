@@ -1,0 +1,22 @@
+[watchface_name] = Binary Clock
+[watchface_author] = a316323(qun166211273)
+
+//Watchface Background
+[background_icon_pos] = {0,0}
+[background_icon] = background.png
+
+[time_hour_high_pos] = {0,0}
+[time_hour_high_font] = font88x88
+[time_hour_high_font_color] = 0xFFFFFF
+
+[time_hour_low_pos] = {88,0}
+[time_hour_low_font] = font88x88
+[time_hour_low_font_color] = 0xFFFFFF
+
+[time_minute_high_pos] = {0,88}
+[time_minute_high_font] = font88x88
+[time_minute_high_font_color] = 0xFFFFFF
+ 
+[time_minute_low_pos] = {88,88}
+[time_minute_low_font] = font88x88
+[time_minute_low_font_color] = 0xFFFFFF
