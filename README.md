@@ -10,7 +10,6 @@ QQ群：166211273 群内禁止恶意灌水、禁止任何反社会言论、禁�
 接受捐款 Donate
 下限一分钱，上限不限制，期间的任何数目都可以。
 目前，捐款者可以充当临时群管理，待观察管理能力，再行转长久管理。
-![image](https://github.com/Thisisnotgoingpublished/Watchface_of_Weloop/blob/master/AlipayQR.jpg)
 
 GPL协议
 
